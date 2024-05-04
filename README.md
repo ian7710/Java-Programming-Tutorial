@@ -50,3 +50,11 @@ Contributions are welcome! If you have any suggestions, improvements, or additio
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle). It was designed with the principle of "Write Once, Run Anywhere" (WORA), meaning that Java code can run on any device that supports Java without needing to be recompiled.
+
+### Features of Java
+
+- **Platform Independence:** Java programs can run on any platform that has a Java Virtual Machine (JVM) installed.
+- **Object-Oriented:** Java follows the object-oriented programming paradigm, allowing for the creation of reusable...
