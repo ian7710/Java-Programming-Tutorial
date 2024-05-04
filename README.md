@@ -1,6 +1,6 @@
 # Java Programming Tutorial
 
-![Java Logo](![image]([https://github.com/ian7710/Java-Programming-Tutorial/assets/60393429/82ec4e50-25e8-4366-bfb7-caf2d1a6114f](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
+![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
 
 Welcome to the Java Programming Tutorial repository! This repository is designed to help beginners and intermediate learners to master Java programming language from basics to advanced concepts. Whether you're new to programming or looking to deepen your understanding of Java, this repository aims to provide a comprehensive guide.
 
